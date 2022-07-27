@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=07A6F7&vCenter=true&multiline=true&width=350&height=80&lines=Hi%2C+I+am+Bilal+Özcan.;I+am+Mobile+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=07A6F7&vCenter=true&multiline=true&width=350&height=80&lines=Hi%2C+I+am+Bilal+Özcan.;I+am+Mobile+Developer.)](https://git.io/typing-svg)
 <h3> 💻 &nbsp;About Me </h3>
 
 - 👨‍💻 &nbsp; Flutter Developer
