@@ -35,7 +35,7 @@
 <a href="mailto:bilalozcan015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/bilalozcan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilalozcan&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bilalozcan&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
